@@ -1,4 +1,4 @@
-require_relative "./builder"
+require_relative "./example"
 
 example = Example.builder
     .withCharacteristic(characteristic: "foo")
